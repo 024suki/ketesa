@@ -18,6 +18,7 @@
   "author": "etke.cc",
   "license": "Apache-2.0",
   "homepage": "https://github.com/etkecc/ketesa#readme",
+  "packageManager": "pnpm@12.18.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/etkecc/ketesa.git"
